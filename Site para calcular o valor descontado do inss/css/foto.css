@@ -1,0 +1,22 @@
+#mae{
+    width: 70%;
+    margin: auto;
+    font-family: Verdana;
+}
+
+#mae select{
+    display: block;
+    width: 100%;
+    padding: 5px;
+}
+
+#mae img{
+    width: 65%;
+    display: block;
+    margin: auto;
+}
+
+#mae h2{
+    text-align: center;
+    color: blue;
+}

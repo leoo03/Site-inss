@@ -1,0 +1,40 @@
+#container{
+    width: 25%;
+    margin: auto;
+}
+
+#container fieldset{
+    background-color: rgb(200,200,200);
+    padding: 15px;
+    margin-top: 15px;
+}
+
+#container h3{
+    color: blue;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#container fieldset input{
+    font-size: 40px;
+    width: 100%;
+    border: none;
+}
+
+#container button{
+    background-color: blue;
+    width: 100%;
+    padding: 10px;
+    color: white;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+legend{
+    font-weight: bolder;
+}
+
+#resultado{
+    text-align: center;
+    color: red;
+}
